@@ -25,7 +25,6 @@ const studentSchema = new mongoose.Schema({
        
     },
 
-
     state:{
         type:String,
         required:true,
